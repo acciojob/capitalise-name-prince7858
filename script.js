@@ -1,2 +1,2 @@
 //your JS code here. If required.
-alert(input.toUpperCase)
+alert($(fname).toUpperCase)
